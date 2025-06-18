@@ -10,4 +10,4 @@ Placa Wifi: T919 com chip bcm94360cd
 
 Rodando Sonoma 15.5 100%
 
-![Screenshot da interface](https://github.com/DevRBezerra/EFI-X99/blob/main/Screenshot%202025-06-18%20at%2017.44.45.png)
+![Screenshot da interface]([https://github.com/DevRBezerra/EFI-X99/blob/main/Screenshot%202025-06-18%20at%2017.44.45.png](https://github.com/DevRBezerra/x99-efi/blob/main/Screenshot%202025-06-18%20at%2017.44.45.png))
