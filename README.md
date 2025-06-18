@@ -8,7 +8,7 @@ EFI customizada para Hackintosh rodando macOS Sonoma 15.5 com sucesso.
 
 - **Processador:** Intel Xeon E5-2680 V4  
 - **Placa-mãe:** X99 MR9A PRO  
-- **Memórias RAM:** Husky DDR4 — 2x 16 GB (32 GB total)  
+- **Memórias RAM:** Husky DDR4 — 3x 16 GB
 - **SSD:** ADATA SATA  
 - **HD:** Seagate 4 TB  
 - **Placa de Vídeo:** AMD Radeon RX 6600  
