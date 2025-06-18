@@ -2,11 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
-        <key># BASE EFI INTEL X99 HASWELL(E) - RELEASE Version</key>
+        <key># X99 F8 BASE EFI</key>
         <string></string>
-        <key># BY: https://luchina.com.br</key>
+        <key># BY: https://rbezerradev.vercel.app/</key>
         <string></string>
-        <key># DISCORD: https://discord.universohackintosh.com</key>
+        <key># linkdin: https://www.linkedin.com/in/renan-bezerra-6614b6208/</key>
         <string></string>
         <key>ACPI</key>
         <dict>
@@ -1360,7 +1360,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C028353064NJG361H</string>
+                <string>coloque seu mlb</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1374,9 +1374,9 @@
                 <key>SystemProductName</key>
                 <string>iMacPro1,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02X98ZUHX87</string>
+                <string>serialnumber</string>
                 <key>SystemUUID</key>
-                <string>07D0032F-BCD7-4FCB-A004-F8A87A81AF3C</string>
+                <string>uuid</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
